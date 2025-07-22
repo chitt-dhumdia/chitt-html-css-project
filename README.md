@@ -4,7 +4,7 @@
 
 This is a personal portfolio website designed to showcase creative work including photography, editorial content, web projects, and logos. The layout is clean, responsive, and ideal for freelancers, designers, or photographers.
 
-###screen shot
+### screen shot
 
 <img width="1900" height="846" alt="b-1" src="https://github.com/user-attachments/assets/ba2fa9a3-b38b-4d3e-802d-2779de9d5fba" />
 <img width="1897" height="823" alt="b-2" src="https://github.com/user-attachments/assets/c6a553e0-9545-4a36-bb92-a40d00988216" />
