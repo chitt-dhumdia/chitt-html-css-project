@@ -12,6 +12,8 @@ This is a personal portfolio website designed to showcase creative work includin
 <img width="1895" height="865" alt="b-4" src="https://github.com/user-attachments/assets/9cb914fe-1187-4ba1-af52-f9d3585f3129" />
 <img width="1901" height="217" alt="b-5" src="https://github.com/user-attachments/assets/8f54167f-b49d-4ff3-a1bd-a6895bddbdd9" />
 
+### live preview :- https://deft-narwhal-de5c67.netlify.app/
+
 
 
 
