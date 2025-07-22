@@ -1,0 +1,302 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html body{
+
+    font-family: sans-serif;
+}
+
+/* comman class start */
+
+.container{
+
+    max-width: 1320px;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+
+.row{
+
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.col-2{
+
+    width: 20%;
+    padding: 35px 30px;
+}
+
+.col-4{
+
+    width: 33.33%;
+    padding: 35px 30px;
+}
+
+
+.col-6{
+
+    width: 50%;
+    padding: 15px 5px;
+}
+
+.col-8{
+
+    width: 80%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.d-flex{
+
+    display: flex;
+}
+
+.justify-content-center{
+
+    justify-content: center;
+}
+
+.aline-item-center{
+
+    align-items: center;
+}
+
+a{
+    text-decoration: none;
+    display: inline-block;
+    color: inherit;
+}
+
+li{
+
+    list-style-type: none;
+}
+
+.mt-1{
+
+    margin-top: 1rem;
+}
+
+
+/* comman class end */
+
+/* header section start  */
+
+header{
+
+    background-color: #003566;
+}
+
+.header-cat{
+
+    color: #fff;
+    font-size: 12px;
+    padding: 20px 15px;
+    font-weight: 600;
+    letter-spacing: 0.04rem;
+}
+
+.fa-circle{
+
+    padding-left: 30px;
+    font-size: 4px;
+}
+
+/* header section end  */
+
+/* hero section start  */
+
+.hero{
+
+    background-image: url("../img/back1.jpg");
+    height: 90vh;
+    background-size: cover;
+}
+
+.hero .hero-content{
+
+    text-align: center;
+    color: #fff;
+}
+
+.hero .hero-content h1{
+
+   font-size: 80px;
+   padding-top: 250px; 
+
+}
+
+.hero .hero-content p{
+
+    font-size: 27px;
+}
+
+/* hero section end  */
+
+/* service section start  */
+
+.services ,.portfolio{
+
+    margin-top: 2.5rem;
+    font-size: 2rem;
+    font-weight: 600;
+  
+}
+
+.service-content, .portfolio-content{
+
+    color: grey;
+    margin-top: .8rem;
+}
+
+.box{
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+    background: linear-gradient(27deg,rgba(0, 27, 161, 1) 0%, rgba(252, 70, 107, 1) 100%);
+    margin: 15px auto;
+}
+
+.fa-gears, .fa-link, .fa-crop-simple, .fa-rocket, .fa-plug, .fa-lightbulb, .fa-mobile-screen-button, .fa-location-dot, .fa-envelope{
+
+    font-size: 28px;
+    color: #fff;
+}
+
+.box-title{
+
+    margin: 15px 0;
+    font-weight: 600;
+    font-size: 21px;
+}
+
+.box-content{
+
+    text-align: center;
+    color: grey;
+}
+
+/* service section end  */
+
+/* portfolio section start  */
+
+.portfolio{
+
+    margin-top: 2.5rem;
+    font-size: 2rem;
+    font-weight: 600;
+  
+}
+
+.portfolio-content{
+
+    color: grey;
+    margin-top: .8rem;
+}
+
+.portfolio-section .col-2 li{
+
+    margin: 25px 0;
+    font-size: 15px;
+}
+
+.portfolio-img{
+
+    background-image: url("../img/img1.jpg");
+    background-size: cover;
+    height: 400px;
+    width: 480px;
+}
+
+/* portfolio section end  */
+
+/* bolg section start  */
+
+.blog{
+
+    margin-top: 2.5rem;
+    font-size: 2rem;
+    font-weight: 600;
+  
+}
+
+.blog-content{
+
+    color: grey;
+    margin-top: .8rem;
+}
+
+.blog-img{
+
+    background-image: url("../img/blog-img2.jpeg");
+    height: 300px;
+    width: 350px;
+    background-size: cover;
+}
+
+.blog-title1{
+
+    font-size: 15px;
+    color: gray;
+    font-weight: 600;
+}
+
+.blog-title2{
+
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.blog-content1{
+
+    color: grey;
+    line-height: 30px;
+}
+
+.read-more{
+
+    text-align: right;
+    color: #003566;
+}
+
+/* bolg section end  */
+
+/* footer section start  */
+
+.footer{
+
+    background-color: rgb(211, 209, 209);
+    padding-top: 25px;
+
+}
+
+.link-box{
+
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+    background-color: #003566;
+
+}
+
+.link-content{
+
+    margin-left: 25px;
+}
+
+.link-content .p1{
+
+    font-size: 13px;
+    font-weight: 600;
+    margin-bottom: 2rem;
+}
+
+
+
+/* footer section end  */
+
